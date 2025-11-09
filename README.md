@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋🏻‍♂️, I'm Raj </h1>
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Raj !</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unboundedraj&label=Profile%20views&color=0e75b6&style=flat" alt="unboundedraj" /> </p>
@@ -17,6 +17,8 @@
 <p align="left">
 <a href="https://twitter.com/unbounded_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unbounded_raj" height="30" width="40" /></a>
 <a href="https://instagram.com/unboundedraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unboundedraj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/unboundedraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unboundedraj" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/unboundedraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="unboundedraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/unboundedraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unboundedraj" height="30" width="40" /></a>
 </p>
 
