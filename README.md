@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full stack issues**
 
-- 📫 How to reach me **unboundedraj@gmaill.com**
+- 📫 How to reach me **unboundedraj@gmail.com**
 
 - ⚡ Fun fact **I can type above 80 wpm**
 
