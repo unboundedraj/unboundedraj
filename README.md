@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-💻Software Engineer, 🙋🏻‍♂️Content Creator, 📖Book Reader, 👩🏻‍💻Tech enthusiast and a🎶 Music lover driven by Self and powered by ✨ Solitude...
+Software Engineer,Content Creator, Book Reader, Tech enthusiast and a Music lover driven by Self and powered by Solitude...
 
 * 🌍  I'm based in Lucknow/Pune/Mumbai
 * ✉️  You can contact me at [unboundedraj@gmail.com](mailto:unboundedraj@gmail.com)
